@@ -9,6 +9,3 @@
 05. Peneira de Vôlei 
 06. Definindo as posições
 07. Isenção de impostos
-08. Montanha Russa Muito Assustadora
-09. Transformar nota em conceito
-10. Identificando caracteres
